@@ -7,38 +7,20 @@
 - the word _toast_ comes from the Latin _toastare_, meaning _**to toast**_
 - canadian neurosurgeon dr. wilder penfield, while operating on epilepsy patients, discovered the _toast centre_ of the human brain, which is wholly dedicated to detecting when toast is burning woah!
 
+### Here are some reasons why I love toast
+- it is smol
+- it is crunchy
+- tost
 
+#### I also really like trains
+[Link](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiV4ouVw9LWAhUmyoMKHZTWA1wQjRwIBw&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCjpcP8c6cds&psig=AOvVaw1UZCtuZNVxWmUblTX54aG4&ust=1507053833979355)
+**Why do I like trains so much, you ask?**
+well
+- trains are fast
+- trains are silly
+- trains give good hugs
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/auyeungceline/auyeungceline.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
