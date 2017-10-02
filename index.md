@@ -12,8 +12,7 @@
 - it is crunchy
 - tost
 
-#### I also really like trains
-[Link](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiV4ouVw9LWAhUmyoMKHZTWA1wQjRwIBw&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCjpcP8c6cds&psig=AOvVaw1UZCtuZNVxWmUblTX54aG4&ust=1507053833979355)
+#### [i also really like trains](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiV4ouVw9LWAhUmyoMKHZTWA1wQjRwIBw&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCjpcP8c6cds&psig=AOvVaw1UZCtuZNVxWmUblTX54aG4&ust=1507053833979355)
 **Why do I like trains so much, you ask?**
 well
 - trains are fast
