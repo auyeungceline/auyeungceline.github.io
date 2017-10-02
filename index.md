@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to Petite Toasts
 
-You can use the [editor on GitHub](https://github.com/auyeungceline/auyeungceline.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](http://allabouttoast.weebly.com/uploads/1/4/7/2/14728356/9638331.png?1)
+
+## Here are some facts about toast
+- toast is sliced bread that has been browned by exposure to radiant heat
+- the word _toast_ comes from the Latin _toastare_, meaning _**to toast**_
+- canadian neurosurgeon dr. wilder penfield, while operating on epilepsy patients, discovered the _toast centre_ of the human brain, which is wholly dedicated to detecting when toast is burning woah!
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
