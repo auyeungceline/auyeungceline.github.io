@@ -24,7 +24,15 @@ h1 {
     font-size: 3em;
     font-family:'Cambria', 'Calibri', 'serif';
     text-align: center;
-    color: DarkSlateGrey;
+    color: LemonChiffon;
+<div class="bg"> <h1> Hello world</h1></div>
+
+.bg{
+    background-image: url("http://www.pawelkaim.com/img/videoEditingIreland.png");
+    background-repeat:no-repeat;
+    width: 300px;
+    height:200px;
+}
 }
 p {
     font-size: 1em;
