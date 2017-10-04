@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 80%;
+    background-color: Cornsilk;
 }
 nav ul, footer ul {
     font-family:'Cambria', 'Calibri', 'serif';
@@ -14,45 +15,33 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: Maroon;
+    color: DimGrey;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-size: 3em;
-    font-family:'Cambria', 'Calibri', 'serif';
+    font-family:'League Script', 'League Script #1', 'serif';
+    text-align: centre;
+    color: navy;
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: brown;
+    font-size: 1em;
+    line-height: 1em;
+    color: DimGrey;
+    text-align: centre;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    text-align: right;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-}
-
-/* Set a background color to the 'body' element */
-body { 
-    background-color: Cornsilk;
-    }
-    
-/* Same as above, but using the CSS 'background' property instead */
-body { 
-    background: Cornsilk;
-    }
-    
-/* Setting the text color for the 'h1' element */    
-h1 { 
-    color: Navy;
-    }
-
+}   
 /* Setting a border color on the 'article' element */
 article { 
     border-color: Navy;
