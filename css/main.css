@@ -24,7 +24,7 @@ h1 {
     font-size: 3em;
     font-family:'Cambria', 'Calibri', 'serif';
     text-align: center;
-    color: navy;
+    color: DarkSlateGrey;
 }
 p {
     font-size: 1em;
@@ -44,12 +44,12 @@ ul.posts {
 }   
 /* Setting a border color on the 'article' element */
 article { 
-    border-color: Navy;
+    border-color: DarkSlateGrey;
     }
 
 /* Same as previous, but using the 'border' property instead (also sets border width and style) */    
 article { 
-    border: 3px solid Navy;
+    border: 3px solid DarkSlateGrey;
     }
 
 .adjust {
