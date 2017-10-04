@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #362;
+    color: red;
 }
 a:hover {
     text-decoration: underline;
@@ -26,7 +26,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #666;
+    color: brown;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -38,17 +38,27 @@ ul.posts {
     font-size: 1.5em;
 }
 
-ul.posts li {
-    list-style: none;
-}
-body {
-    background-color: yellow;
-}
+/* Set a background color to the 'body' element */
+body { 
+    background-color: blue;
+    }
+    
+/* Same as above, but using the CSS 'background' property instead */
+body { 
+    background: blue;
+    }
+    
+/* Setting the text color for the 'h1' element */    
+h1 { 
+    color: blue;
+    }
 
-h1 {
-    background-color: #00ff00;
-}
+/* Setting a border color on the 'article' element */
+article { 
+    border-color: blue;
+    }
 
-p {
-    background-color: rgb(255,0,255);
-}
+/* Same as previous, but using the 'border' property instead (also sets border width and style) */    
+article { 
+    border: 1px solid blue;
+    }
