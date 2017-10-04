@@ -22,15 +22,15 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'League Script', 'League Script #1', 'serif';
-    text-align: centre;
+    font-family:'Cambria', 'Calibri', 'serif';
+    text-align: center;
     color: navy;
 }
 p {
     font-size: 1em;
     line-height: 1em;
     color: DimGrey;
-    text-align: centre;
+    text-align: center;
 }
 footer {
     border-top: 1px solid #d5d5d5;
