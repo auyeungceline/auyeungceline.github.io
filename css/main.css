@@ -3,7 +3,7 @@ body {
     width: 80%;
 }
 nav ul, footer ul {
-    font-family:'Cambria', 'Arial Narrow', 'Times New Roman';
+    font-family:'Cambria', 'Calibri', 'serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -14,14 +14,14 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: red;
+    color: Maroon;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-size: 3em;
-    font-family:'Cambria', 'Arial Narrow', 'Times New Roman';
+    font-family:'Cambria', 'Calibri', 'serif';
 }
 p {
     font-size: 1.5em;
@@ -40,25 +40,33 @@ ul.posts {
 
 /* Set a background color to the 'body' element */
 body { 
-    background-color: blue;
+    background-color: Cornsilk;
     }
     
 /* Same as above, but using the CSS 'background' property instead */
 body { 
-    background: blue;
+    background: Cornsilk;
     }
     
 /* Setting the text color for the 'h1' element */    
 h1 { 
-    color: blue;
+    color: Navy;
     }
 
 /* Setting a border color on the 'article' element */
 article { 
-    border-color: blue;
+    border-color: Navy;
     }
 
 /* Same as previous, but using the 'border' property instead (also sets border width and style) */    
 article { 
-    border: 1px solid blue;
+    border: 3px solid Navy;
     }
+
+.adjust {
+   font-size-adjust: 0.78;
+  }
+</style>
+<p>Without adjustment.</p>
+<p class="adjust">With adjustment.</p>
+<hr>
